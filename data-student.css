@@ -1,7 +1,12 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f9f4ea;
+    /* background-color: #f9f4ea; */
     padding: 20px;
+    
+    background-image: url(bg-img/layered-waves-haikei.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .container {
     width: 800px;
